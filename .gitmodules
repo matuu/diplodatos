@@ -1,0 +1,3 @@
+[submodule "AnalisisyVisualizacion"]
+	path = AnalisisyVisualizacion
+	url = git@github.com:DiploDatos/AnalisisyVisualizacion.git
